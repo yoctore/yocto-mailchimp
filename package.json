@@ -1,7 +1,7 @@
 {
   "name": "yocto-mailchimp",
-  "version": "0.1.0",
-  "description": "Manage mailchimp client",
+  "version": "1.0.0",
+  "description": "Mailchimp utility wrapper to call mailchimp api",
   "scripts": {
     "test": "grunt test"
   },
