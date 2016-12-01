@@ -1,6 +1,6 @@
 {
   "name": "yocto-mailchimp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mailchimp utility wrapper to call mailchimp api",
   "scripts": {
     "test": "grunt test"
@@ -45,7 +45,7 @@
     "wrapper"
   ],
   "dependencies": {
-    "joi": "^9.0.4",
+    "joi": "^10.0.1",
     "lodash": "^4.14.0",
     "mailchimp-api": "^2.0.7",
     "q": "^1.4.1",
@@ -55,9 +55,9 @@
   "devDependencies": {
     "grunt": "1.0.1",
     "chai": "3.5.0",
-    "grunt-contrib-uglify": "1.0.1",
-    "grunt-mocha-test": "^0.12.7",
-    "mocha": "2.4.5",
+    "grunt-contrib-uglify": "2.0.0",
+    "grunt-mocha-test": "^0.13.2",
+    "mocha": "3.2.0",
     "yocto-hint": "^1.3.7",
     "grunt-todo": "^0.5.0",
     "grunt-contrib-copy": "1.0.0",
